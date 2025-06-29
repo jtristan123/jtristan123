@@ -18,13 +18,6 @@ Here are some ideas to get you started:
 <!-- ————————————————————————————————————————————
    Hi-there banner (generated with shields.io)
    ———————————————————————————————————————————— -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Hello%20World%20I’m-Skyline%20V2-8250df?style=for-the-badge&logo=github">
-</p>
-
-[[_TOC_]]
-
----
 
 ## 🤖 What I’m About
 <table align="right" cellpadding="6" cellspacing="0" border="1">
