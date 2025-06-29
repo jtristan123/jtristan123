@@ -14,3 +14,72 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- ————————————————————————————————————————————
+   Hi-there banner (generated with shields.io)
+   ———————————————————————————————————————————— -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Hello%20World%20I’m-Skyline%20V2-8250df?style=for-the-badge&logo=github">
+</p>
+
+[[_TOC_]]
+
+---
+
+## 🤖 What I’m About
+<table align="right" cellpadding="6" cellspacing="0" border="1">
+<tr><td align="center">
+  <img src="https://github.com/user-attachments/assets/51ef10e1-c081-405a-a747-92be5e6f142a"
+       alt="Git branching workflow" width="180"><br>
+  <em>Figure&nbsp;1 — One repo to rule them all</em>
+</td></tr>
+</table>
+
+* ⚡ **ECE undergrad** who can’t resist digging into bare-metal.
+* 🔧 *Tinker-first* philosophy: if it isn’t broken, mod it anyway.
+* 🤝 I share every fail & fix so the next engineer Googling at 3 a.m. finds hope.
+* 💬 *“Vibe coding”* advocate — kindness + code > ego + code.
+
+<br clear="all">
+
+---
+
+## 🔨 Tech & Tool-belt
+
+| Domain | Gear I Wield |
+|--------|--------------|
+| **Embedded / Robotics** | Mecanum drive tuning, PID loops, Coral Edge-TPU, SPI, Picamera2 |
+| **Hardware Design** | Verilog, Cocotb, OpenLane ASIC flow, GA-driven placement |
+| **ML / CV** | TensorFlow 1 & 2, Quantization-aware training, MobileNet SSD |
+| **Dev Playground** | VS Code Remote-WSL, Sunshine + Moonlight, KasmVNC, GitHub Actions |
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Status | Elevator Pitch |
+|---------|:------:|---------------|
+| **Cone-Spotter** 🤖 | 🛠️ | Edge-TPU powered vision that lets my robot strafe toward orange traffic cones at 15 FPS. |
+| **GA-on-Silicon** 🔬 | 🧪 | Genetic algorithm that harvests true randomness from an SPI LFSR — headed for ASIC via OpenLane. |
+| **Smart-Barbell** 🏋️ | 🌱 | Pi Zero W streams IMU data to a Mac for real-time rep detection and form analysis. |
+| **Collectibles Hub** 🦖 | ✅ | eBay store inventory crawler + price updater (because Skullcrawler exclusives wait for no one). |
+
+---
+
+## 🎮 Backlog Blitz
+
+<details>
+<summary>Click to see progress&nbsp;📂</summary>
+
+| Game | Playing | Done |
+|------|:------:|:----:|
+| Halo 2 | ⌛ | ✅ |
+| Monster Hunter Wilds | 🎮 |  |
+| …and 28 more |   |   |
+
+</details>
+
+---
+
+
+
