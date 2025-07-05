@@ -56,10 +56,10 @@ Here are some ideas to get you started:
 
 | Project | Learning | Elevator Pitch | Repo |
 |---------|:------:|----------------|------| 
-| **Cone Collecting Car** 🤖 | • Python + OpenCV basics<br>• Mecanum-drive<br>• Git • Trained custom model  | Edge-TPU powered vision that lets my robot strafe toward traning cones. | https://github.com/jtristan123/Project-CCC |
+| **Cone Collecting Car** 🤖 | • Python + robotics <br>• ML • Trained custom model  | Edge-TPU powered vision that lets my robot strafe toward traning cones. | https://github.com/jtristan123/Project-CCC |
 | **GA + Hw accelerator** 🔬 | • Verilog HDL design<br>• Cocotb verification<br>• OpenLane ASIC flow | Genetic algorithm that harvests true randomness from an SPI LFSR  headed for ASIC via OpenLane. |https://github.com/jtristan123/HW-for-AI-ML-ECE-410/wiki/Project-GA| 
-| **Smart-Barbell** 🏋️ | •ML trainning using lastest TF version<br> • AI inference to detect rep | Pi Zero streams IMU data for real-time rep detection and form analysis using ML. |https://github.com/jtristan123/smartbarbell|
-| **TensorFLow 2.8** 📖 |•Quantization-aware training<br>• TPU compiler & benchmarking<br> • custom TensorFlow model on WSL2<br> | TensorFlow Lite Model Maker and compile locally for the Coral Edge TPU. |https://github.com/jtristan123/Train_TFLite_model|
+| **Smart-Barbell** 🏋️ | •ML trainning TF<br> • AI inference | Pi Zero streams IMU data for real-time rep detection and form analysis using ML. |https://github.com/jtristan123/smartbarbell|
+| **TensorFLow 2.8** 📖 |•Quantization-aware training<br>• TPU compiler & benchmarking<br> • custom TensorFlow model on WSL2<br> | TensorFlow Lite Model Maker and compile locally for the Coral Edge TPU. |https://github.com/jtristan123/Train_TFLite_model| 
 
 
 ---
