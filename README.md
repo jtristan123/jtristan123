@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 * 🔧 *Tinker-first* philosophy: if it isn’t broken, mod it anyway.
 * 🤝 I share every fail & fix so the next engineer Googling at 3 a.m. finds hope.
 * 💬 *“Vibe coding”* advocate — kindness + code > ego + code.
+* 📚 **Currently learning** AI engineering, JavaScript, AWS, and PyTorch... it's a lot to take in, but exciting!
 
 <br clear="all">
 
@@ -44,7 +45,8 @@ Here are some ideas to get you started:
 | Domain | Gear I Wield |
 |--------|--------------|
 | **Embedded / Robotics** | Mecanum drive tuning, PID loops, Coral Edge-TPU, SPI/I2C |
-| **Hardware Design** | Verilog, Cocotb, OpenLane ASIC flow |
+| **Hard/software co-Design** | Verilog, Cocotb, OpenLane, HDL to ASIC flow |
+| **Hardware MPU/MPC** | rpi, esp32, smt32 and one day jetson |
 | **ML / CV** | TensorFlow 1 & 2, Quantization-aware training, MobileNet SSD |
 | **Dev Playground** | VS Code, Remote-WSL, Linux, Git |
 
