@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 
 | Domain | Gear I Wield |
 |--------|--------------|
-| **Embedded / Robotics** | Mecanum drive tuning, PID loops, Coral Edge-TPU, SPI, Picamera2 |
-| **Hardware Design** | Verilog, Cocotb, OpenLane ASIC flow, GA-driven placement |
+| **Embedded / Robotics** | Mecanum drive tuning, PID loops, Coral Edge-TPU, SPI/I2C |
+| **Hardware Design** | Verilog, Cocotb, OpenLane ASIC flow |
 | **ML / CV** | TensorFlow 1 & 2, Quantization-aware training, MobileNet SSD |
-| **Dev Playground** | VS Code Remote-WSL, Sunshine + Moonlight, KasmVNC, GitHub Actions |
+| **Dev Playground** | VS Code, Remote-WSL, Linux, Git |
 
 ---
 
