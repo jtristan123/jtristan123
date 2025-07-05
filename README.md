@@ -52,12 +52,12 @@ Here are some ideas to get you started:
 
 ## 🚀 Featured Projects
 
-| Project | Status | Elevator Pitch |
-|---------|:------:|---------------|
-| **Cone-Spotter** 🤖 | 🛠️ | Edge-TPU powered vision that lets my robot strafe toward orange traffic cones at 15 FPS. |
-| **GA-on-Silicon** 🔬 | 🧪 | Genetic algorithm that harvests true randomness from an SPI LFSR — headed for ASIC via OpenLane. |
-| **Smart-Barbell** 🏋️ | 🌱 | Pi Zero W streams IMU data to a Mac for real-time rep detection and form analysis. |
-| **Collectibles Hub** 🦖 | ✅ | eBay store inventory crawler + price updater (because Skullcrawler exclusives wait for no one). |
+| Project | Status | Elevator Pitch | Repo |
+|---------|:------:|----------------|------| 
+| **Cone Collecting Car** 🤖 | 🛠️ | Edge-TPU powered vision that lets my robot strafe toward traning cones. | https://github.com/jtristan123/Project-CCC |
+| **GA-on-Silicon** 🔬 | 🧪 | Genetic algorithm that harvests true randomness from an SPI LFSR — headed for ASIC via OpenLane. | 
+| **Smart-Barbell** 🏋️ | 🌱 | Pi Zero W streams IMU data to a Mac for real-time rep detection and form analysis. | 
+| **Collectibles Hub** 🦖 | ✅ | eBay store inventory crawler + price updater (because Skullcrawler exclusives wait for no one). | 
 
 ---
 
