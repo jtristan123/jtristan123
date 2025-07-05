@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ## 🚀 Featured Projects
 
 | Project | Learning | Elevator Pitch | Repo |
-|---------|:------:|----------------|------| 
+|---------|----------|----------------|------| 
 | **Cone Collecting Car** 🤖 | • Python + robotics <br>• ML • Trained custom model  | Edge-TPU powered vision that lets my robot strafe toward traning cones. | https://github.com/jtristan123/Project-CCC |
 | **GA + Hw accelerator** 🔬 | • Verilog HDL design<br>• Cocotb verification<br>• OpenLane ASIC flow | Genetic algorithm that harvests true randomness from an SPI LFSR  headed for ASIC via OpenLane. |https://github.com/jtristan123/HW-for-AI-ML-ECE-410/wiki/Project-GA| 
 | **Smart-Barbell** 🏋️ | •ML trainning TF<br> • AI inference | Pi Zero streams IMU data for real-time rep detection and form analysis using ML. |https://github.com/jtristan123/smartbarbell|
