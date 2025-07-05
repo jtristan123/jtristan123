@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 | Project | Status | Elevator Pitch | Repo |
 |---------|:------:|----------------|------| 
 | **Cone Collecting Car** 🤖 | 🛠️ | Edge-TPU powered vision that lets my robot strafe toward traning cones. | https://github.com/jtristan123/Project-CCC |
-| **GA + Hw accelerator ** 🔬 | 🧪 | Genetic algorithm that harvests true randomness from an SPI LFSR — headed for ASIC via OpenLane. |https://github.com/jtristan123/HW-for-AI-ML-ECE-410/wiki/Project-GA| 
+| **GA + Hw accelerator** 🔬 | 🧪 | Genetic algorithm that harvests true randomness from an SPI LFSR — headed for ASIC via OpenLane. |https://github.com/jtristan123/HW-for-AI-ML-ECE-410/wiki/Project-GA| 
 | **Smart-Barbell** 🏋️ | 🌱 | Pi Zero W streams IMU data for real-time rep detection and form analysis. |https://github.com/jtristan123/smartbarbell|
 | **TensorFLow 2.8** 📖 | 🌱 | TensorFlow Lite Model Maker and compile locally for the Coral Edge TPU. |https://github.com/jtristan123/Train_TFLite_model|
 
