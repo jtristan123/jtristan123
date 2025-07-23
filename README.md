@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 | **Hard/software co-Design** | Verilog, Cocotb, OpenLane, HDL to ASIC flow |
 | **Hardware MPU/MPC** | rpi, esp32, smt32 and one day jetson |
 | **ML / CV** | TensorFlow 1 & 2, Quantization-aware training, MobileNet SSD |
-| **Dev Playground** | VS Code, Remote-WSL, Linux, Git |
+| **Dev Playground** | VS Code, Remote-WSL2, Linux, Git |
 
 ---
 
