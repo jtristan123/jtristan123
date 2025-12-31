@@ -24,11 +24,13 @@ Here are some ideas to get you started:
 ## 🤖 What I’m About
 <table align="right" cellpadding="6" cellspacing="0" border="1">
 <tr><td align="center">
-  <img src="https://github.com/user-attachments/assets/51ef10e1-c081-405a-a747-92be5e6f142a"
+  <img src="https://github.com/user-attachments/assets/cd7f3011-6026-40f5-bfc1-637236328a08"
        alt="Git branching workflow" width="180"><br>
   <em>Figure&nbsp;1 — One repo to rule them all</em>
 </td></tr>
 </table>
+![Untitled design (2)](https://github.com/user-attachments/assets/cd7f3011-6026-40f5-bfc1-637236328a08)
+
 
 * ⚡ **ECE undergrad** who can’t resist digging into bare-metal.
 * 🔧 *Tinker-first* philosophy: if it isn’t broken, mod it anyway.
