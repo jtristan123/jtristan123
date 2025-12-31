@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ## 🔨 Tech & Tool-belt
 <table align="right" cellpadding="6" cellspacing="0" border="1">
 <tr><td align="center">
-  <img src="https://github.com/user-attachments/assets/34ca210d-1ea9-47ad-9078-70f7a258cf8a"
+  <img src="https://github.com/user-attachments/assets/c213b27d-fab2-4a60-a36a-b9f326cbf4d1"
        alt="Git branching workflow" width="180"><br>
   <em>Fig&nbsp;1 — so101 chief (almost)</em>
 </td></tr>
