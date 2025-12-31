@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <tr><td align="center">
   <img src="https://github.com/user-attachments/assets/c213b27d-fab2-4a60-a36a-b9f326cbf4d1"
        alt="Git branching workflow" width="180"><br>
-  <em>Fig&nbsp;1 — so101 chief (almost)</em>
+  <em>Fig&nbsp;2 — clone trooper</em>
 </td></tr>
 </table>
 
