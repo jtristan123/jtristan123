@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <tr><td align="center">
   <img src="https://github.com/user-attachments/assets/cd7f3011-6026-40f5-bfc1-637236328a08"
        alt="Git branching workflow" width="180"><br>
-  <em>Fig&nbsp;1 — so101 chief</em>
+  <em>Fig&nbsp;1 — so101 chief (almost)</em>
 </td></tr>
 </table>
 
