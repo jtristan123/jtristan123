@@ -50,9 +50,6 @@ Here are some ideas to get you started:
 </td></tr>
 </table>
 
-<br clear="all">
-
-
 | Domain | Gear I Wield |
 |--------|--------------|
 | **Embedded / Robotics** | Mecanum drive tuning, PID loops, Coral Edge-TPU, SPI/I2C |
