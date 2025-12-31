@@ -50,6 +50,9 @@ Here are some ideas to get you started:
 </td></tr>
 </table>
 
+<br clear="all">
+
+
 | Domain | Gear I Wield |
 |--------|--------------|
 | **Embedded / Robotics** | Mecanum drive tuning, PID loops, Coral Edge-TPU, SPI/I2C |
@@ -58,6 +61,7 @@ Here are some ideas to get you started:
 | **ML / CV** | TensorFlow 1 & 2, Quantization, MobileNet SSD, ACT policy|
 | **Dev Playground** | VS Code, Remote-WSL2, Linux, Git, Hugging face |
 
+<br clear="all">
 ---
 
 ## 🚀 Featured Projects
