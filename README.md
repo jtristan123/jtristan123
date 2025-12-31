@@ -61,7 +61,6 @@ Here are some ideas to get you started:
 | **ML / CV** | TensorFlow 1 & 2, Quantization, MobileNet SSD, ACT policy|
 | **Dev Playground** | VS Code, Remote-WSL2, Linux, Git, Hugging face |
 
-<br clear="all">
 ---
 
 ## 🚀 Featured Projects
