@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 | **Embedded / Robotics** | Mecanum drive tuning, PID loops, Coral Edge-TPU, SPI/I2C |
 | **Hard/software co-Design** | Verilog, Cocotb, OpenLane, HDL to ASIC flow |
 | **Hardware MPU/MPC** | rpi, esp32, smt32 and one day jetson |
-| **ML / CV** | TensorFlow 1 & 2, Quantization-aware training, MobileNet SSD, ACT policy|
+| **ML / CV** | TensorFlow 1 & 2, Quantization, MobileNet SSD, ACT policy|
 | **Dev Playground** | VS Code, Remote-WSL2, Linux, Git, Hugging face |
 
 ---
