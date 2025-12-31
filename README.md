@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 
 ---
 
+<br clear="all">
 ## 🔨 Tech & Tool-belt
 <table align="right" cellpadding="6" cellspacing="0" border="1">
 <tr><td align="center">
