@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 | **GA + Hw accelerator** 🔬 | • Verilog HDL design<br>• Cocotb verification<br>• OpenLane ASIC flow | Genetic algorithm that harvests true randomness from an SPI LFSR  headed for ASIC via OpenLane. |[repo](https://github.com/jtristan123/HW-for-AI-ML-ECE-410/wiki/Project-GA)| 
 | **Smart-Barbell** 🏋️ | •ML trainning TF<br> • AI inference | Pi Zero streams IMU data for real-time rep detection and form analysis using ML. |[repo](https://github.com/jtristan123/smartbarbell)|
 | **TensorFLow 2.8** 📖 |•Quantization<br>• TPU compiler & benchmarking<br> • TensorFlow model+WSL2<br> | TensorFlow Lite Model Maker and compile locally for the Coral Edge TPU. |[repo](https://github.com/jtristan123/Train_TFLite_model)| 
-| **SO-ARM101** 📖 |•Teleoperated<br>• Hugging Face Imitation Learning (IL)<br> • ACT policy training<br> | Collected real robot episodes and trained an ACT policy to perform pick-and-place / stacking tasks on a robot arm. | model/dataset on hugging face| 
+| **SO-ARM101** 📖 |•Teleoperated<br>• Hugging Face Imitation Learning (IL)<br> • ACT policy training<br> | Collected real robot episodes and trained an ACT policy to perform pick-and-place / stacking tasks on a robot arm. | [model/dataset on hugging face](https://huggingface.co/mercu7)| 
 | **Clone Trooper Helmet** 📖 |•Teensy<br>• Audio voice changer<br> • Mechatronics/3D printed project<br> | Clone Trooper helmet motorized visor, embedded audio, and hardware designed to respond instantly, not just look cool. | repo | 
 
 ---
